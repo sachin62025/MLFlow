@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sachi/python/10_ML_krish_Naik_udemy_course/Machine%20Learning/MLFlow/mlruns/0/d91a1b5835d3498db59a3a45aad26b65/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d91a1b5835d3498db59a3a45aad26b65
+run_name: treasured-crane-620
+run_uuid: d91a1b5835d3498db59a3a45aad26b65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723978026252
+status: 1
+tags: []
+user_id: sachi
